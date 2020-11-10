@@ -1,0 +1,4 @@
+
+1-)Kurucu metotları private olarak oluşturabiliriz.
+2-)Diğer sınıfların nesne oluşturmasını istemiyorsak ve
+"Singleton class design pattern" oluştururken ihtiyaç duyarız.
